@@ -28,7 +28,8 @@ NOTICE: When opening the installer Windows will flag it as an unknown source. It
 Select "More Info" to install
 ```
 
-![windows error 1](/Assets/Img/Windows1.png) ![windows error 2](/Assets/Img/windows2.png)
+![windows error 1](/Assets/Img/Windows1.png)
+![windows error 2](/Assets/Img/Windows2.png)
 
 ```
 Choose "Run Anyway"
