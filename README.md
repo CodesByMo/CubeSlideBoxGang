@@ -18,7 +18,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 Here's a very quick guide to install the game.
 
-[Download Game](https://mega.nz/file/25xREQaC)
+[Download Game](https://mega.nz/file/ylh3jLhJ#hDi-rG-Un8Vof9M9MlanTH31oLVMWk67uPfXmdhPwYI)
 
 ```
 NOTICE: When opening the installer Windows will flag it as an unknown source. It is safe to install.
