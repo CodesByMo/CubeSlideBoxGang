@@ -8,7 +8,7 @@ My first project in Unity. A simple, but average difficulty platform game with a
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine. Feel free to leave me any feedback
 
 ### Prerequisites
 
@@ -47,3 +47,4 @@ Choose "Run Anyway"
 ## Acknowledgments
 
 - [Brackeys](https://youtube.com/Brackeys) - Great tutorial on how to build this game yourself!
+- [Follow Me On Twitter](http://twitter.com/CodesByMo)
